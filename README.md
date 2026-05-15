@@ -1,5 +1,5 @@
 ![ElecTricks](content/electricks.png)
-# Het ETmbit-project [(content/gb.png)](README.EN.md)
+# Het ETmbit-project [![GB flag](content/gb.png)](README.EN.md)
 Het ETmbit-project maakt robotica-onderwijs eenvoudig en toegankelijk. Het is gericht op:
 - bovenbouw basisonderwijs
 - onderbouw voortgezet onderwijs
