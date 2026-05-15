@@ -1,8 +1,8 @@
 ![ElecTricks](content/electricks.png)
 # Het ETmbit-project [GB](README.EN.md)
 Het ETmbit-project maakt robotica-onderwijs eenvoudig en toegankelijk. Het is gericht op:
-- bovenbouw basisonderwijs 
-- onderbouw voortgezet onderwijs 
+- bovenbouw basisonderwijs  
+- onderbouw voortgezet onderwijs  
 Er wordt gewerkt met de combinatie **micro:bit + MakeCode**. Robotonderdelen worden **3D-geprint of kant-en-klaar aangeschaft**. Van leerkrachten en docenten wordt **minimale voorkennis van robotica** verwacht.
 
 ---
@@ -26,9 +26,9 @@ Er wordt gewerkt met de combinatie **micro:bit + MakeCode**. Robotonderdelen wor
 ---
 ### :bulb: Lessons
 Hier vind je de complete leerlijn robotica. De lessen lopen van:
-- basis: *micro:bit en MakeCode leren gebruiken*
-- creatieve projecten: *Simon Says, robotdans, robotvoetbal*
-- technische projecten: *robotarmen, drones programmeren*
+- basis: *micro:bit en MakeCode leren gebruiken*  
+- creatieve projecten: *Simon Says, robotdans, robotvoetbal*  
+- technische projecten: *robotarmen, drones programmeren*  
 Leerlingen kunnen hun eigen leerroute kiezen op basis van interesse, niveau en tempo.
 Iedere les wordt op A5-formaat aangeboden – als boekje (:book:) en als losbladig systeem (:page_with_curl:).
 
@@ -39,10 +39,10 @@ Hier staan ondersteunende apps, zoals de **gamepad-app** die het mogelijk maakt 
 ---
 ### :bucket: Makerspace
 De makerspace draait om **eenvoud en toegankelijkheid**:
-- onderdelen worden grotendeels 3D-geprint 
-- sensoren en motoren worden apart ingekocht 
-- onderdelen worden gekoppeld met **LEGO-pins**
-- voor ondergronden en werkvelden is er een bouwbeschrijving
+- onderdelen worden grotendeels 3D-geprint  
+- sensoren en motoren worden apart ingekocht  
+- onderdelen worden gekoppeld met **LEGO-pins**  
+- voor ondergronden en werkvelden is er een bouwbeschrijving  
 In deze map vind je:
 - STL-bestanden voor 3D-printers
 - tekeningen met de afmeting van ondergronden en werkvelden
