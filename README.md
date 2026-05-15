@@ -15,12 +15,19 @@ Er wordt gewerkt met de combinatie **micro:bit + MakeCode**. Robotonderdelen wor
 ---
 ## :card_index_dividers: Projectstructuur
 :books: etmbit/
+
 ├── :bulb: lessons/
+
 ├── :computer: apps/
+
 ├── :bucket: makerspace/
+
 ├── :book: documents/
+
 ├── :scissors: codebase/
+
 ├── :scissors: projects/
+
 └── :boomerang: extensions/
 
 ---
