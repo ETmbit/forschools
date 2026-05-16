@@ -18,7 +18,7 @@ ETmbit heeft **gedifferentieerd leren** als uitgangspunt. Leerlingen kiezen hun 
 <br>
 
 ## :basket: Lesinhoud
-Hier is **spelenderwijs leren** de boodschap. Het begint met enkele bekende spelletjes om te leren hoe MakeCode werkt — *kat-en-muis*, *snake*, *simon-says*. Het lesmateriaal biedt veel **challenges**. Via verschillende routes door het ETmbit-materiaal ontwikkelen leerlingen uiteindelijk dezelfde vaardigheden. Voor elk wat wils:
+Hier is **spelenderwijs leren** de boodschap. Het begint met enkele bekende spelletjes om te leren hoe MakeCode werkt: *kat-en-muis*, *snake*, *simon-says*. Het lesmateriaal biedt veel **challenges**. Via verschillende routes door het ETmbit-materiaal ontwikkelen leerlingen uiteindelijk dezelfde vaardigheden. Voor elk wat wils:
 
 :soccer: sport, :musical_note: muziek, :cartwheeling: dans, :video_game: games, :seedling: natuur, :baby: verzorging, :nut_and_bolt: techniek, :clapper: beeld, enz.
 
