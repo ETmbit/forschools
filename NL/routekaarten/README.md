@@ -4,7 +4,7 @@
 
 ![ElecTricks](/content/route.png)
 
-De routekaarten geven per leerling een overzicht van het persoonlijke leerpad binnen ETmbit.
+De routekaarten geven per leerling een overzicht van de persoonlijke leerroute binnen ETmbit.
 
 ## Zo werkt een routekaart
 
