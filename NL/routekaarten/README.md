@@ -23,5 +23,5 @@ Praktisch werkt het zo:
 
 1. Elke leerling begint op de oranje startpijl van **et-nl-routekaart-basis.pdf**.
 2. Afhankelijk van de keuzes en behaalde opdrachten worden extra routekaarten toegevoegd.
-3. Die komen in de klassenmap voor de basisroutekaart van de leerling.
+3. Die komen in de klassenmap vóór de basisroutekaart van de leerling.
 4. Zo ontstaat voor iedere leerling een persoonlijk leerpad dat zichtbaar blijft over meerdere jaren.
