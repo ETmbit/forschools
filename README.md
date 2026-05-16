@@ -6,7 +6,7 @@ Het ETmbit-project biedt een **complete leerlijn robotica** en maakt het lesgeve
 - bovenbouw basisonderwijs 
 - onderbouw voortgezet onderwijs
 
-ETmbit met **micro:bit + MakeCode**. Robotonderdelen worden **kant-en-klaar** aangeschaft of **3D-geprint**. Bij iedere les zit een **bouwgids** (inclusief bestellijsten en bestanden voor de 3D-printer), een **docentenhandleiding** en uiteraard het **lesmateriaal**. Van leerkrachten en docenten wordt **minimale voorkennis en voorbereiding** verwacht.
+ETmbit met **micro:bit + MakeCode**. Robotonderdelen worden **kant-en-klaar** aangeschaft of **3D-geprint**. Bij iedere module zit een **bouwgids** (inclusief bestellijsten en bestanden voor de 3D-printer), een **docentenhandleiding** en uiteraard het **lesmateriaal**. Van leerkrachten en docenten wordt **minimale voorkennis en voorbereiding** verwacht.
 
 ![Banner](content/banner.png)
 
@@ -34,7 +34,7 @@ Waarom *ElecTricks*? De naam komt van twee film-figuren uit mijn jeugd:
 
 ![Catweazel](content/catweazel.png)
 
-**Catweazel**. De in het heden belande middeleeuwse magiër, die de wonderlijke mogelijkheden van elektriciteit *elec-trickery* noemde.
+**Catweazel**. De in het heden belande middeleeuwse magiër, die de wonderlijke mogelijkheden van elektriciteit *Elec-Trickery* noemde.
 <br><br>
 
 ![ET](content/et.png)
