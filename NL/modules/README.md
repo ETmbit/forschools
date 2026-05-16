@@ -1,3 +1,9 @@
+![ElecTricks](/content/electricks.png)
+
+# ETmbit lesmodules
+
+![ElecTricks](/content/modules.png)
+
 ## Document-versies
 De opdrachten zijn op A5-formaat vormgegeven. Als boekje nemen ze weinig ruimte in. Er staat wellicht ook al een robot naast de computer.
 
