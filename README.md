@@ -24,7 +24,7 @@ Hier is **spelenderwijs leren** de boodschap. Het begint met enkele bekende spel
 
 :soccer: sport, :musical_note: muziek, :cartwheeling: dans, :video_game: games, :seedling: natuur, :baby: verzorging, :nut_and_bolt: techniek, :clapper: beeld, enz.
 
-:large_orange_diamond: [naar de lessen](NL/lessen/)
+:large_orange_diamond: [naar de lesmodules](NL/modules/)
 
 <br><br>
 
