@@ -15,4 +15,3 @@ Nieten kan met een langarm-nietmachine, bijvoorbeeld https://www.manutan.nl/nl/m
 
 De versies eindigend op *...-L.pdf* bevatten losbladig gerangschikte pagina’s. Deze versies zijn vooral geschikt voor presentaties of voor weergave in github.
 
-
