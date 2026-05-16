@@ -21,3 +21,5 @@ De lijn vormt de rand van het werkgebied. Zodra de buggy buiten het veld komt, s
 
 2. **De lijn volgen**<br>
 De lijn wordt gebruikt als pad om te volgen. In deze modus blijft de buggy rijden zolang hij de lijn detecteert en stopt hij juist wanneer hij van de lijn af raakt.
+
+:warning: **Blijf alert!** De ingebouwde veiligheidsmaatregelen bieden geen volledige garantie dat de buggy nooit over de lijn rijdt. De kans hierop hangt af van de breedte van de lijn en de snelheid van de buggy. Bij hoge snelheden of een smalle lijn kan de lijnsensor de lijn mogelijk niet op tijd detecteren.
