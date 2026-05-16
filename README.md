@@ -1,5 +1,5 @@
 ![ElecTricks](content/electricks.png)
-<a href=".README.EN.md"><img align="right" src="content/gb.png"></a>
+<a href="README.EN.md"><img align="right" src="content/gb.png"></a>
 
 # Het ETmbit-project
 Het ETmbit-project biedt een **complete leerlijn robotica** en maakt het lesgeven erin eenvoudig en toegankelijk. Het project is gericht op:
