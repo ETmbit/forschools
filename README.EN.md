@@ -17,7 +17,7 @@ ETmbit uses the **micro:bit + MakeCode** platform. Robot components are either p
 
 ETmbit is based on the principle of **differentiated learning**. Students choose their own route through the lesson materials based on interest, level, and learning style. Teachers use a **tracking system** to guide their progress. No complicated slide decks — everything works with clear **roadmaps** that provide an overview for both students and teachers.
 
-:large_orange_diamond: [go to the roadmaps](roadmaps/)
+:large_orange_diamond: [go to the roadmaps](roadmap)
 
 <br>
 
