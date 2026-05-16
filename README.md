@@ -6,7 +6,7 @@ Het ETmbit-project biedt een **complete leerlijn robotica** en maakt het lesgeve
 - bovenbouw basisonderwijs 
 - onderbouw voortgezet onderwijs
 
-Er wordt gewerkt met **micro:bit + MakeCode**. Robotonderdelen schaf je **kant-en-klaar** aan of worden **3D-geprint**. Bij iedere les zit een **bouwgids** (inclusief bestellijsten en bestanden voor de 3D-printer), een **docentenhandleiding** en uiteraard het **lesmateriaal**. Van leerkrachten en docenten wordt **minimale voorkennis en voorbereiding** verwacht. 
+ETmbit met **micro:bit + MakeCode**. Robotonderdelen worden **kant-en-klaar** aangeschaft of **3D-geprint**. Bij iedere les zit een **bouwgids** (inclusief bestellijsten en bestanden voor de 3D-printer), een **docentenhandleiding** en uiteraard het **lesmateriaal**. Van leerkrachten en docenten wordt **minimale voorkennis en voorbereiding** verwacht. 
 
 <br>
 
@@ -18,7 +18,7 @@ ETmbit heeft **gedifferentieerd leren** als uitgangspunt. Leerlingen kiezen hun 
 <br>
 
 ## :basket: Lesinhoud
-Hier is **spelenderwijs leren** de boodschap. Het begint met enkele bekende spelletjes om te leren hoe MakeCode werkt: *kat-en-muis*, *snake*, *simon-says*. Het lesmateriaal biedt veel **challenges**. Langs diverse routes door het ETmbit-materiaal gaan de leerlingen toch dezelfde skills  beheersen. Voor elk wat wils:
+Hier is **spelenderwijs leren** de boodschap. Het begint met enkele bekende spelletjes om te leren hoe MakeCode werkt: *kat-en-muis*, *snake*, *simon-says*. Het lesmateriaal biedt veel **challenges**. Via verschillende routes door het ETmbit-materiaal ontwikkelen leerlingen uiteindelijk dezelfde vaardigheden. Voor elk wat wils:
 
 :soccer: sport, :musical_note: muziek, :cartwheeling: dans, :video_game: games, :seedling: natuur, :baby: verzorging, :nut_and_bolt: techniek, :clapper: beeld, enz.
 
