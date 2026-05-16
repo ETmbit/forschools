@@ -13,9 +13,9 @@ ETmbit met **micro:bit + MakeCode**. Robotonderdelen worden **kant-en-klaar** aa
 <br>
 
 ## :twisted_rightwards_arrows: Lesplan
-ETmbit heeft **gedifferentieerd leren** als uitgangspunt. Leerlingen kiezen hun eigen route door het lesmateriaal op basis van interesse, niveau en leerstijl. Leerkrachten en docenten gebruiken een **volgsysteem** om hun ontwikkeling te begeleiden. Geen ingewikkelde sheets — alles werkt met één enkele, voor zowel de leerlingen als de lesgevende **overzichtlijke routekaart**.
+ETmbit heeft **gedifferentieerd leren** als uitgangspunt. Leerlingen kiezen hun eigen route door het lesmateriaal op basis van interesse, niveau en leerstijl. Leerkrachten en docenten gebruiken een **volgsysteem** om hun ontwikkeling te begeleiden. Geen ingewikkelde sheets — alles werkt met voor zowel de leerlingen als de lesgevende **overzichtlijke routekaarten**.
 
-:large_orange_diamond: [routekaart](.method/NL/et-nl-routekaart.pdf)
+:large_orange_diamond: [naar de routekaarten](roadmap/)
 
 <br>
 
