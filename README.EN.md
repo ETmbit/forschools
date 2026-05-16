@@ -9,6 +9,8 @@ The ETmbit project provides a **complete robotics learning pathway** and makes t
 
 ETmbit uses the **micro:bit + MakeCode** platform. Robot components are either purchased **ready-made** or **3D printed**. Each lesson includes a **building guide** (including parts lists and 3D printer files), a **teacher’s manual**, and of course the **lesson materials**. Only **minimal prior knowledge and preparation** are expected from teachers and instructors.
 
+![Banner](content/banner.png)
+
 <br>
 
 ## :twisted_rightwards_arrows: Lesson Plan
