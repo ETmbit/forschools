@@ -6,7 +6,9 @@ Het ETmbit-project biedt een **complete leerlijn robotica** en maakt het lesgeve
 - bovenbouw basisonderwijs 
 - onderbouw voortgezet onderwijs
 
-ETmbit met **micro:bit + MakeCode**. Robotonderdelen worden **kant-en-klaar** aangeschaft of **3D-geprint**. Bij iedere les zit een **bouwgids** (inclusief bestellijsten en bestanden voor de 3D-printer), een **docentenhandleiding** en uiteraard het **lesmateriaal**. Van leerkrachten en docenten wordt **minimale voorkennis en voorbereiding** verwacht. 
+ETmbit met **micro:bit + MakeCode**. Robotonderdelen worden **kant-en-klaar** aangeschaft of **3D-geprint**. Bij iedere les zit een **bouwgids** (inclusief bestellijsten en bestanden voor de 3D-printer), een **docentenhandleiding** en uiteraard het **lesmateriaal**. Van leerkrachten en docenten wordt **minimale voorkennis en voorbereiding** verwacht.
+
+![Banner](content/banner.png)
 
 <br>
 
