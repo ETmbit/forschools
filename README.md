@@ -15,7 +15,7 @@ ETmbit met **micro:bit + MakeCode**. Robotonderdelen worden **kant-en-klaar** aa
 ## :twisted_rightwards_arrows: Lesplan
 ETmbit heeft **gedifferentieerd leren** als uitgangspunt. Leerlingen kiezen hun eigen route door het lesmateriaal op basis van interesse, niveau en leerstijl. Leerkrachten en docenten gebruiken een **volgsysteem** om hun ontwikkeling te begeleiden. Geen ingewikkelde sheets — alles werkt met voor zowel de leerlingen als de lesgevende **overzichtlijke routekaarten**.
 
-:large_orange_diamond: [naar de routekaarten](roadmap/)
+:large_orange_diamond: [naar de routekaarten](NL/routekaarten/)
 
 <br>
 
@@ -24,7 +24,7 @@ Hier is **spelenderwijs leren** de boodschap. Het begint met enkele bekende spel
 
 :soccer: sport, :musical_note: muziek, :cartwheeling: dans, :video_game: games, :seedling: natuur, :baby: verzorging, :nut_and_bolt: techniek, :clapper: beeld, enz.
 
-:large_orange_diamond: [naar de lessen](.method/NL/lessen/)
+:large_orange_diamond: [naar de lessen](NL/lessen/)
 
 <br><br>
 
