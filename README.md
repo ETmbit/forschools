@@ -34,7 +34,7 @@ Waarom *ElecTricks*? De naam komt van twee film-figuren uit mijn jeugd:
 
 ![Catweazel](content/catweazel.png)
 
-**Catweazel**. De in het heden belande middeleeuwse magiër, die de wonderlijke mogelijkheden van elektriciteit *electrickity* noemde.
+**Catweazel**. De in het heden belande middeleeuwse magiër, die de wonderlijke mogelijkheden van elektriciteit *elec-trickery* noemde.
 <br><br>
 
 ![ET](content/et.png)
