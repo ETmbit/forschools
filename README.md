@@ -29,14 +29,9 @@ Hier is **spelenderwijs leren** de boodschap. Het begint met enkele bekende spel
 <br><br>
 
 ## :movie_camera: En ...
-Waarom *ElecTricks*? De naam komt van twee film-figuren uit mijn jeugd:
+Waarom *ElecTricks*? De naam komt van een tv-serie uit mijn jeugd:
 <br><br>
 
 ![Catweazel](content/catweazel.png)
 
 **Catweazel**. De in het heden belande middeleeuwse magiër, die de wonderlijke mogelijkheden van elektriciteit *Elec-Trickery* noemde.
-<br><br>
-
-![ET](content/et.png)
-
-**ET, the extraterrestrial**. Het eenzaam op aarde achtergelaten buitenaards wezentje, met het aandoenlijke verzoek: *ET phone home*.
